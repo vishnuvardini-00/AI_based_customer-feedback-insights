@@ -1,0 +1,51 @@
+feedback_id,feedback_text,date,rating,category,source,product,customer_segment
+D001,"The app is fast and easy to use. Love the new dashboard.",2026-01-05,5,Mobile App,App Store,Mobile App,Consumer
+D002,"Delivery was late and the package arrived damaged.",2026-01-08,1,Delivery,Survey,Home Goods,Consumer
+D003,"Support was friendly and resolved my issue quickly.",2026-01-12,5,Customer Support,Email,Service Plan,Business
+D004,"The monthly plan is too expensive for these features.",2026-01-18,2,Pricing,Survey,Service Plan,Consumer
+D005,"Great quality and smooth setup. Would recommend.",2026-02-02,5,Product Quality,App Store,Home Goods,Consumer
+D006,"The application keeps crashing when I try to check out.",2026-02-04,1,Mobile App,App Store,Mobile App,Consumer
+D007,"My order arrived late again. Delivery tracking was not helpful.",2026-02-09,2,Delivery,Email,Home Goods,Consumer
+D008,"Quick response from the support team, thank you!",2026-02-11,4,Customer Support,Chat,Service Plan,Business
+D009,"The interface is confusing and hard to navigate.",2026-02-17,2,Mobile App,Survey,Mobile App,Consumer
+D010,"I love the new features; everything works perfectly.",2026-02-22,5,Product Quality,App Store,Mobile App,Consumer
+D011,"Good product, but shipping took longer than expected.",2026-03-01,3,Delivery,Survey,Home Goods,Consumer
+D012,"No problems so far. The service is okay.",2026-03-03,3,Service,Email,Service Plan,Business
+D013,"Terrible support experience. Nobody answered my question.",2026-03-08,1,Customer Support,Chat,Service Plan,Consumer
+D014,"This is excellent value and the setup was simple.",2026-03-12,5,Pricing,App Store,Service Plan,Consumer
+D015,"The app is slow and sometimes freezes.",2026-03-17,2,Mobile App,App Store,Mobile App,Consumer
+D016,"The product quality is wonderful and reliable.",2026-03-21,5,Product Quality,Survey,Home Goods,Consumer
+D017,"I was charged twice and need a refund.",2026-04-02,1,Billing,Email,Service Plan,Business
+D018,"Helpful staff sorted out my billing problem.",2026-04-06,4,Customer Support,Chat,Service Plan,Business
+D019,"Please add an option to export my reports.",2026-04-11,3,Feature Request,Survey,Mobile App,Consumer
+D020,"The latest update broke the login screen.",2026-04-13,1,Mobile App,App Store,Mobile App,Consumer
+D021,"Fast delivery and a lovely product. Very happy.",2026-04-18,5,Delivery,Survey,Home Goods,Consumer
+D022,"The price is high but the quality is good.",2026-04-22,3,Pricing,Email,Home Goods,Consumer
+D023,"It is not bad, just takes a little while to load.",2026-05-01,3,Mobile App,App Store,Mobile App,Consumer
+D024,"Customer service was excellent and very helpful.",2026-05-05,5,Customer Support,Email,Service Plan,Business
+D025,"The package never arrived and I am disappointed.",2026-05-09,1,Delivery,Survey,Home Goods,Consumer
+D026,"Works as expected. Nothing special to report.",2026-05-15,3,Service,Chat,Service Plan,Consumer
+D027,"Love how simple the checkout process is.",2026-05-19,5,Mobile App,App Store,Mobile App,Consumer
+D028,"The app is broken after the update. Please fix it.",2026-05-22,1,Mobile App,Survey,Mobile App,Consumer
+D029,"Reasonable price and great quality.",2026-06-02,5,Pricing,Email,Home Goods,Consumer
+D030,"Support took days to reply and was unhelpful.",2026-06-06,1,Customer Support,Chat,Service Plan,Business
+D031,"The new reporting feature would save us time.",2026-06-13,4,Feature Request,Survey,Mobile App,Business
+D032,"Fast, reliable service. I am very happy.",2026-06-20,5,Service,App Store,Service Plan,Consumer
+D033,"The delivery was delayed and tracking never updated.",2026-07-01,2,Delivery,Email,Home Goods,Consumer
+D034,"Great app, but the subscription is expensive.",2026-07-04,3,Pricing,App Store,Mobile App,Consumer
+D035,"I did not like the confusing setup process.",2026-07-11,2,Mobile App,Survey,Mobile App,Consumer
+D036,"Excellent product and helpful support team.",2026-07-18,5,Product Quality,Email,Home Goods,Business
+D037,"Order arrived on time and everything was perfect.",2026-08-03,5,Delivery,Survey,Home Goods,Consumer
+D038,"The application is slow on my phone.",2026-08-09,2,Mobile App,App Store,Mobile App,Consumer
+D039,"Average experience. It does what I need.",2026-08-15,3,Service,Chat,Service Plan,Consumer
+D040,"Fantastic customer support; my issue was fixed.",2026-08-22,5,Customer Support,Email,Service Plan,Business
+D041,"The price is too high and support was slow.",2026-09-02,1,Pricing,Survey,Service Plan,Consumer
+D042,"Good quality and an easy-to-use app.",2026-09-08,5,Product Quality,App Store,Mobile App,Consumer
+D043,"The feature I requested is still missing.",2026-09-14,2,Feature Request,Email,Mobile App,Business
+D044,"Not great, but not terrible either.",2026-09-21,3,Service,Survey,Service Plan,Consumer
+D045,"Perfect delivery and a wonderful experience.",2026-10-02,5,Delivery,App Store,Home Goods,Consumer
+D046,"I received the wrong item; this is a problem.",2026-10-09,1,Product Quality,Email,Home Goods,Consumer
+D047,"Thank you, Alex@example.com, for fixing my account.",2026-10-16,5,Customer Support,Chat,Service Plan,Business
+D048,"The product works fine, though the packaging was damaged.",2026-10-21,3,Product Quality,Survey,Home Goods,Consumer
+D049,"Delivery was late and the package arrived damaged.",2026-01-08,1,Delivery,Survey,Home Goods,Consumer
+D050,"The app is not fast and easy to use.",2026-10-25,2,Mobile App,App Store,Mobile App,Consumer
